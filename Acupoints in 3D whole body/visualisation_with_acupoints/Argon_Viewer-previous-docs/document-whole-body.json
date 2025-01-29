@@ -668,68 +668,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
-                "GlyphOffset": [
-                  0,
-                  0,
-                  0
-                ],
-                "GlyphRepeatMode": "NONE",
-                "LabelOffset": [
-                  0,
-                  0,
-                  0
-                ],
-                "LabelText": [
-                  "",
-                  "",
-                  ""
-                ],
-                "ScaleFactors": [
-                  1,
-                  1,
-                  1
-                ]
-              },
-              "Points": {},
-              "RenderLineWidth": 1,
-              "RenderPointSize": 1,
-              "RenderPolygonMode": "SHADED",
-              "SamplingAttributes": {
-                "ElementPointSamplingMode": "CELL_CENTRES",
-                "Location": [
-                  0,
-                  0,
-                  0
-                ]
-              },
-              "Scenecoordinatesystem": "LOCAL",
-              "SelectMode": "ON",
-              "SelectedMaterial": "default_selected",
-              "SubgroupField": "HT3 left",
-              "Tessellation": "default_points",
-              "Type": "POINTS",
-              "VisibilityFlag": true
-            },
-            {
-              "BoundaryMode": "ALL",
-              "CoordinateField": "marker coordinates",
-              "ElementFaceType": "ALL",
-              "FieldDomainType": "NODES",
-              "Material": "default",
-              "PointAttributes": {
-                "BaseSize": [
-                  0,
-                  0,
-                  0
-                ],
-                "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -780,12 +724,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -836,12 +780,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -892,12 +836,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -948,12 +892,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1004,12 +948,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1060,12 +1004,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1116,12 +1060,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1172,12 +1116,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1340,12 +1284,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1396,12 +1340,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1452,12 +1396,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1508,12 +1452,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1564,12 +1508,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1620,12 +1564,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1676,12 +1620,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1732,12 +1676,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1788,12 +1732,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1844,12 +1788,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1900,12 +1844,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -1956,12 +1900,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2012,12 +1956,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2068,12 +2012,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2124,12 +2068,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2180,12 +2124,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2236,12 +2180,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2292,12 +2236,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2348,12 +2292,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2404,12 +2348,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2460,12 +2404,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2516,12 +2460,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2572,12 +2516,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2628,12 +2572,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2684,12 +2628,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2740,12 +2684,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2796,12 +2740,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2852,12 +2796,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2908,12 +2852,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -2964,12 +2908,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -3020,12 +2964,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -3076,12 +3020,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -3132,12 +3076,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -3188,12 +3132,12 @@
               "Material": "default",
               "PointAttributes": {
                 "BaseSize": [
-                  0,
-                  0,
-                  0
+                  10,
+                  10,
+                  10
                 ],
                 "Font": "default",
-                "Glyph": "point",
+                "Glyph": "sphere",
                 "GlyphOffset": [
                   0,
                   0,
@@ -3232,6 +3176,62 @@
               "SelectMode": "ON",
               "SelectedMaterial": "default_selected",
               "SubgroupField": "ST41 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  10,
+                  10,
+                  10
+                ],
+                "Font": "default",
+                "Glyph": "sphere",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "HT3 left",
               "Tessellation": "default_points",
               "Type": "POINTS",
               "VisibilityFlag": true
@@ -3418,11 +3418,11 @@
                 1.0
               ],
               "EyePosition": [
-                5.7437076615015235,
-                -5344.398274558241,
-                1108.1450986354864
+                4.906201217923771,
+                -4698.667989941032,
+                1068.027018079418
               ],
-              "FarClippingPlane": 15013.81738969354,
+              "FarClippingPlane": 15013.81125645484,
               "LightingLocalViewer": false,
               "LightingTwoSided": true,
               "LookatPosition": [
@@ -3430,7 +3430,7 @@
                 -102.07274055480957,
                 782.4486846923828
               ],
-              "NearClippingPlane": 1.5075149776702732,
+              "NearClippingPlane": 1.5013817389693542,
               "PerturbLinesFlag": true,
               "ProjectionMode": "PERSPECTIVE",
               "Scene": null,
@@ -3444,7 +3444,7 @@
                 0.061992206947760684,
                 0.9980241857773456
               ],
-              "ViewAngle": 0.6981317007977286,
+              "ViewAngle": 0.6981317007977289,
               "ZoomRate": 1
             }
           }

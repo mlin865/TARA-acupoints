@@ -1,0 +1,28 @@
+{
+   "GlyphGeometriesURL" : "memory_resource_80",
+   "axis1" : {
+      "0" : [ 1, 0, 0 ]
+   },
+   "axis2" : {
+      "0" : [ 0, 1, 0 ]
+   },
+   "axis3" : {
+      "0" : [ 0, 0, 1 ]
+   },
+   "metadata" : {
+      "MorphColours" : false,
+      "MorphVertices" : false,
+      "base_size" : [ 10, 10, 10 ],
+      "number_of_time_steps" : 0,
+      "number_of_vertices" : 1,
+      "offset" : [ 0, 0, 0 ],
+      "repeat_mode" : "NONE",
+      "scale_factors" : [ 1, 1, 1 ]
+   },
+   "positions" : {
+      "0" : [ 121.3321533203125, -154.2531890869141, 526.7705688476562 ]
+   },
+   "scale" : {
+      "0" : [ 0, 0, 0 ]
+   }
+}

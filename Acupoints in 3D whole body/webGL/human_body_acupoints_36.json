@@ -1,27 +1,28 @@
 {
-	"metadata" : {
-		"formatVersion" : 3,
-		"description" : "Exported from LibZinc."
-	},
-
-	"materials" : [ {
-	"DbgColor" : 15658734,
-	"DbgIndex" : 0,
-	"DbgName" : "my_material",
-	"colorDiffuse" : [0, 0, 0],
-	"colorSpecular" : [0, 0, 0],
-	"shading" : "Phong",
-	"specularCoef" : 0,
-	"opacity" : 1,
-	"vertexColors" : true
-	}],
-
-	"vertices" : [
-		90.897697,-212.869690,1211.903564
-	],
-
-	"faces": [
-		0 ,0,0,0
-	]
-
+   "GlyphGeometriesURL" : "memory_resource_38",
+   "axis1" : {
+      "0" : [ 1, 0, 0 ]
+   },
+   "axis2" : {
+      "0" : [ 0, 1, 0 ]
+   },
+   "axis3" : {
+      "0" : [ 0, 0, 1 ]
+   },
+   "metadata" : {
+      "MorphColours" : false,
+      "MorphVertices" : false,
+      "base_size" : [ 10, 10, 10 ],
+      "number_of_time_steps" : 0,
+      "number_of_vertices" : 1,
+      "offset" : [ 0, 0, 0 ],
+      "repeat_mode" : "NONE",
+      "scale_factors" : [ 1, 1, 1 ]
+   },
+   "positions" : {
+      "0" : [ -243.0910186767578, -92.25419616699219, 822.13427734375 ]
+   },
+   "scale" : {
+      "0" : [ 0, 0, 0 ]
+   }
 }

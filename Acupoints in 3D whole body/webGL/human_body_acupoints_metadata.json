@@ -8,94 +8,94 @@
     "URL": "human_body_acupoints_01.json"
   },
   {
-    "GroupName": "HT3 left",
-    "MorphColours": false,
-    "MorphNormals": false,
-    "MorphVertices": false,
-    "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_02.json"
-  },
-  {
+    "GlyphGeometriesURL": "human_body_acupoints_03.json",
     "GroupName": "HT3 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_03.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_02.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_05.json",
     "GroupName": "LI12 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
+    "Type": "Glyph",
     "URL": "human_body_acupoints_04.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_07.json",
     "GroupName": "LI12 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_05.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_06.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_09.json",
     "GroupName": "LI20 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_06.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_08.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_11.json",
     "GroupName": "LI20 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_07.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_10.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_13.json",
     "GroupName": "LU1 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_08.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_12.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_15.json",
     "GroupName": "LU1 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_09.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_14.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_17.json",
     "GroupName": "LU2 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_10.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_16.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_19.json",
     "GroupName": "LU2 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_11.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_18.json"
   },
   {
     "GroupName": "LU5 left",
@@ -104,7 +104,7 @@
     "MorphVertices": false,
     "RegionPath": "acupoints",
     "Type": "Points",
-    "URL": "human_body_acupoints_12.json"
+    "URL": "human_body_acupoints_20.json"
   },
   {
     "GroupName": "LU5 right",
@@ -113,313 +113,357 @@
     "MorphVertices": false,
     "RegionPath": "acupoints",
     "Type": "Points",
-    "URL": "human_body_acupoints_13.json"
+    "URL": "human_body_acupoints_21.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_23.json",
     "GroupName": "LU7 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_14.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_22.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_25.json",
     "GroupName": "LU7 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_15.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_24.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_27.json",
     "GroupName": "SI12 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_16.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_26.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_29.json",
     "GroupName": "SI12 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_17.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_28.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_31.json",
     "GroupName": "SI18 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_18.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_30.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_33.json",
     "GroupName": "SI18 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_19.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_32.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_35.json",
     "GroupName": "SI6 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_20.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_34.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_37.json",
     "GroupName": "SI6 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_21.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_36.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_39.json",
     "GroupName": "SI8 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_22.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_38.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_41.json",
     "GroupName": "SI8 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_23.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_40.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_43.json",
     "GroupName": "SI9 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_24.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_42.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_45.json",
     "GroupName": "SI9 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_25.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_44.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_47.json",
     "GroupName": "SP12 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_26.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_46.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_49.json",
     "GroupName": "SP12 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_27.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_48.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_51.json",
     "GroupName": "SP21 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_28.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_50.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_53.json",
     "GroupName": "SP21 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_29.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_52.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_55.json",
     "GroupName": "SP9 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_30.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_54.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_57.json",
     "GroupName": "SP9 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_31.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_56.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_59.json",
     "GroupName": "ST1 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_32.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_58.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_61.json",
     "GroupName": "ST1 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_33.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_60.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_63.json",
     "GroupName": "ST10 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_34.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_62.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_65.json",
     "GroupName": "ST10 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_35.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_64.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_67.json",
     "GroupName": "ST17 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_36.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_66.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_69.json",
     "GroupName": "ST17 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_37.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_68.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_71.json",
     "GroupName": "ST18 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_38.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_70.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_73.json",
     "GroupName": "ST18 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_39.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_72.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_75.json",
     "GroupName": "ST2 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_40.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_74.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_77.json",
     "GroupName": "ST2 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_41.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_76.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_79.json",
     "GroupName": "ST32 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_42.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_78.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_81.json",
     "GroupName": "ST32 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_43.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_80.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_83.json",
     "GroupName": "ST35 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_44.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_82.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_85.json",
     "GroupName": "ST35 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_45.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_84.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_87.json",
     "GroupName": "ST41 left",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_46.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_86.json"
   },
   {
+    "GlyphGeometriesURL": "human_body_acupoints_89.json",
     "GroupName": "ST41 right",
     "MorphColours": false,
     "MorphNormals": false,
     "MorphVertices": false,
     "RegionPath": "acupoints",
-    "Type": "Points",
-    "URL": "human_body_acupoints_47.json"
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_88.json"
+  },
+  {
+    "GlyphGeometriesURL": "human_body_acupoints_91.json",
+    "GroupName": "HT3 left",
+    "MorphColours": false,
+    "MorphNormals": false,
+    "MorphVertices": false,
+    "RegionPath": "acupoints",
+    "Type": "Glyph",
+    "URL": "human_body_acupoints_90.json"
   },
   {
     "Type": "View",

@@ -1,0 +1,27 @@
+{
+	"metadata" : {
+		"formatVersion" : 3,
+		"description" : "Exported from LibZinc."
+	},
+
+	"materials" : [ {
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "my_material",
+	"colorDiffuse" : [0, 0, 0],
+	"colorSpecular" : [0, 0, 0],
+	"shading" : "Phong",
+	"specularCoef" : 0,
+	"opacity" : 1,
+	"vertexColors" : true
+	}],
+
+	"vertices" : [
+		227.196609,-107.397865,1033.599487
+	],
+
+	"faces": [
+		0 ,0,0,0
+	]
+
+}

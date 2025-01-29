@@ -1,0 +1,40 @@
+[General]
+version=0.22.0
+id=map-client-workflow
+
+[view]
+scale=1
+rect=@Variant(\0\0\0\x14@$\0\0\0\0\0\0@$\0\0\0\0\0\0@\x96\x84\0\0\0\0\0@\x8b\x18\0\0\0\0\0)
+transform=@Variant(\0\0\0Q?\xf0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0)
+
+[nodes]
+nodelist\1\source_uri=https://github.com/mapclient-plugins/multiplefilechooser
+nodelist\1\name=Multiple File Chooser
+nodelist\1\position=@Variant(\0\0\0\x1a@w\xb0jJ\x7f\xa4\xe5@u\x97\xe1\x5\x97\xe1\x6)
+nodelist\1\selected=false
+nodelist\1\identifier=Multiple_File_Chooser
+nodelist\1\unique_identifier=6268199d-d79d-11ef-b0de-70a8d3d7ef41
+nodelist\1\connections\1\connectedFromIndex=0
+nodelist\1\connections\1\connectedTo=1
+nodelist\1\connections\1\connectedToIndex=0
+nodelist\1\connections\1\selected=false
+nodelist\1\connections\size=1
+nodelist\2\source_uri=https://github.com/mapclient-plugins/mapclientplugins.argonviewerstep.git
+nodelist\2\name=Argon Viewer
+nodelist\2\position=@Variant(\0\0\0\x1a@\x81\xbf\x34\xe8\x82\xf7\x38@uW\x19\x62\x87\x19\x62)
+nodelist\2\selected=false
+nodelist\2\identifier=Argon_Viewer
+nodelist\2\unique_identifier=6a43a8a6-d79d-11ef-aee5-70a8d3d7ef41
+nodelist\2\connections\1\connectedFromIndex=1
+nodelist\2\connections\1\connectedTo=2
+nodelist\2\connections\1\connectedToIndex=0
+nodelist\2\connections\1\selected=false
+nodelist\2\connections\size=1
+nodelist\3\source_uri=https://github.com/mapclient-plugins/mapclientplugins.argonsceneexporterstep.git
+nodelist\3\name=Argon Scene Exporter
+nodelist\3\position=@Variant(\0\0\0\x1a@\x87\x99\x34n\x87\xc4\xe6@uzP\xddTH\x1)
+nodelist\3\selected=false
+nodelist\3\identifier=Argon_Scene_Exporter
+nodelist\3\unique_identifier=6d61221e-d79d-11ef-8f75-70a8d3d7ef41
+nodelist\3\connections\size=0
+nodelist\size=3

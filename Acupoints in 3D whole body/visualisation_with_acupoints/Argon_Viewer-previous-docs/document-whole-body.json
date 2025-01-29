@@ -1,0 +1,3455 @@
+{
+  "CMLibs Argon Version": [
+    "0",
+    "4",
+    "3"
+  ],
+  "Materials": {
+    "DefaultMaterial": "default",
+    "DefaultSelectedMaterial": "default_selected",
+    "DefaultSurfaceMaterial": "white",
+    "Materials": [
+      {
+        "Alpha": 1,
+        "Ambient": [
+          0,
+          0,
+          0
+        ],
+        "Diffuse": [
+          0,
+          0,
+          0
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "black",
+        "Shininess": 0.2,
+        "Specular": [
+          0.3,
+          0.3,
+          0.3
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          0,
+          0,
+          1
+        ],
+        "Diffuse": [
+          0,
+          0,
+          1
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "blue",
+        "Shininess": 0.2,
+        "Specular": [
+          0.1,
+          0.1,
+          0.1
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          0.7,
+          0.7,
+          0.6
+        ],
+        "Diffuse": [
+          0.9,
+          0.9,
+          0.7
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "bone",
+        "Shininess": 0.2,
+        "Specular": [
+          0.1,
+          0.1,
+          0.1
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          0.5,
+          0.25,
+          0
+        ],
+        "Diffuse": [
+          0.5,
+          0.25,
+          0
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "brown",
+        "Shininess": 0.2,
+        "Specular": [
+          0.1,
+          0.1,
+          0.1
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          0,
+          1,
+          1
+        ],
+        "Diffuse": [
+          0,
+          1,
+          1
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "cyan",
+        "Shininess": 0.2,
+        "Specular": [
+          0.1,
+          0.1,
+          0.1
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          0,
+          0,
+          0
+        ],
+        "Diffuse": [
+          0,
+          0,
+          0
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "default",
+        "Shininess": 0,
+        "Specular": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          1,
+          0.2,
+          0
+        ],
+        "Diffuse": [
+          1,
+          0.2,
+          0
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "default_selected",
+        "Shininess": 0,
+        "Specular": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          1,
+          0.4,
+          0
+        ],
+        "Diffuse": [
+          1,
+          0.7,
+          0
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "gold",
+        "Shininess": 0.3,
+        "Specular": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          0,
+          1,
+          0
+        ],
+        "Diffuse": [
+          0,
+          1,
+          0
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "green",
+        "Shininess": 0.2,
+        "Specular": [
+          0.1,
+          0.1,
+          0.1
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          0.25,
+          0.25,
+          0.25
+        ],
+        "Diffuse": [
+          0.25,
+          0.25,
+          0.25
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "grey25",
+        "Shininess": 0.2,
+        "Specular": [
+          0.1,
+          0.1,
+          0.1
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "Diffuse": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "grey50",
+        "Shininess": 0.2,
+        "Specular": [
+          0.1,
+          0.1,
+          0.1
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          0.75,
+          0.75,
+          0.75
+        ],
+        "Diffuse": [
+          0.75,
+          0.75,
+          0.75
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "grey75",
+        "Shininess": 0.2,
+        "Specular": [
+          0.1,
+          0.1,
+          0.1
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          1,
+          0,
+          1
+        ],
+        "Diffuse": [
+          1,
+          0,
+          1
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "magenta",
+        "Shininess": 0.2,
+        "Specular": [
+          0.1,
+          0.1,
+          0.1
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          0.4,
+          0.14,
+          0.11
+        ],
+        "Diffuse": [
+          0.5,
+          0.12,
+          0.1
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "muscle",
+        "Shininess": 0.2,
+        "Specular": [
+          0.3,
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          1,
+          0.5,
+          0
+        ],
+        "Diffuse": [
+          1,
+          0.5,
+          0
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "orange",
+        "Shininess": 0.2,
+        "Specular": [
+          0.1,
+          0.1,
+          0.1
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          1,
+          0,
+          0
+        ],
+        "Diffuse": [
+          1,
+          0,
+          0
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "red",
+        "Shininess": 0.2,
+        "Specular": [
+          0.1,
+          0.1,
+          0.1
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          0.4,
+          0.4,
+          0.4
+        ],
+        "Diffuse": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "silver",
+        "Shininess": 0.3,
+        "Specular": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "Alpha": 0.5,
+        "Ambient": [
+          0.9,
+          0.7,
+          0.5
+        ],
+        "Diffuse": [
+          0.9,
+          0.7,
+          0.5
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "tissue",
+        "Shininess": 0.2,
+        "Specular": [
+          0.2,
+          0.2,
+          0.3
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          1,
+          1,
+          1
+        ],
+        "Diffuse": [
+          1,
+          1,
+          1
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "white",
+        "Shininess": 0,
+        "Specular": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "Alpha": 1,
+        "Ambient": [
+          1,
+          1,
+          0
+        ],
+        "Diffuse": [
+          1,
+          1,
+          0
+        ],
+        "Emission": [
+          0,
+          0,
+          0
+        ],
+        "Name": "yellow",
+        "Shininess": 0.2,
+        "Specular": [
+          0.1,
+          0.1,
+          0.1
+        ]
+      }
+    ]
+  },
+  "RootRegion": {
+    "ChildRegions": [
+      {
+        "Fieldmodule": {
+          "Fields": [
+            {
+              "CoordinateSystemType": "RECTANGULAR_CARTESIAN",
+              "FieldFiniteElement": {
+                "ComponentNames": [
+                  "x",
+                  "y",
+                  "z"
+                ],
+                "NumberOfComponents": 3
+              },
+              "IsManaged": true,
+              "IsTypeCoordinate": true,
+              "Name": "fitted coordinates"
+            },
+            {
+              "CoordinateSystemType": "RECTANGULAR_CARTESIAN",
+              "FieldFiniteElement": {
+                "ComponentNames": [
+                  "x",
+                  "y",
+                  "z"
+                ],
+                "NumberOfComponents": 3
+              },
+              "IsManaged": true,
+              "IsTypeCoordinate": true,
+              "Name": "marker coordinates"
+            },
+            {
+              "CoordinateSystemType": "RECTANGULAR_CARTESIAN",
+              "FieldFiniteElement": {
+                "ComponentNames": [
+                  "x",
+                  "y",
+                  "z"
+                ],
+                "NumberOfComponents": 3
+              },
+              "IsManaged": true,
+              "IsTypeCoordinate": true,
+              "Name": "marker fitted coordinates"
+            },
+            {
+              "FieldStoredMeshLocation": {
+                "Mesh": "mesh3d"
+              },
+              "IsManaged": true,
+              "Name": "marker_location"
+            },
+            {
+              "FieldStoredString": null,
+              "IsManaged": true,
+              "Name": "marker_name"
+            }
+          ]
+        },
+        "Model": {
+          "Sources": [
+            {
+              "FileName": "../Organs/3DWholeBody_acupoints.exf",
+              "Type": "FILE"
+            }
+          ]
+        },
+        "Name": "skin",
+        "Scene": {
+          "Graphics": [
+            {
+              "BoundaryMode": "BOUNDARY",
+              "CoordinateField": "fitted coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "MESH2D",
+              "Material": "tissue",
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "Surfaces": {},
+              "Tessellation": "default",
+              "Type": "SURFACES",
+              "VisibilityFlag": true
+            }
+          ],
+          "VisibilityFlag": true
+        }
+      },
+      {
+        "Fieldmodule": {
+          "Fields": [
+            {
+              "CoordinateSystemType": "RECTANGULAR_CARTESIAN",
+              "FieldFiniteElement": {
+                "ComponentNames": [
+                  "x",
+                  "y",
+                  "z"
+                ],
+                "NumberOfComponents": 3
+              },
+              "IsManaged": true,
+              "IsTypeCoordinate": true,
+              "Name": "coordinates"
+            },
+            {
+              "CoordinateSystemType": "RECTANGULAR_CARTESIAN",
+              "FieldFiniteElement": {
+                "ComponentNames": [
+                  "x",
+                  "y",
+                  "z"
+                ],
+                "NumberOfComponents": 3
+              },
+              "IsManaged": true,
+              "IsTypeCoordinate": true,
+              "Name": "marker coordinates"
+            },
+            {
+              "FieldStoredMeshLocation": {
+                "Mesh": "mesh3d"
+              },
+              "IsManaged": true,
+              "Name": "marker_location"
+            },
+            {
+              "FieldStoredString": null,
+              "IsManaged": true,
+              "Name": "marker_name"
+            }
+          ]
+        },
+        "Model": {
+          "Sources": [
+            {
+              "FileName": "../Organs/boxWithAcupoints.exf",
+              "Type": "FILE"
+            }
+          ]
+        },
+        "Name": "acupoints",
+        "Scene": {
+          "Graphics": [
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "HT3 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "HT3 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "LI12 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "LI12 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "LI20 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "LI20 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "LU1 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "LU1 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "LU2 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "LU2 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "LU5 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "LU5 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "LU7 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "LU7 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SI12 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SI12 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SI18 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SI18 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SI6 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SI6 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SI8 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SI8 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SI9 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SI9 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SP12 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SP12 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SP21 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SP21 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SP9 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "SP9 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST1 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST1 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST10 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST10 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST17 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST17 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST18 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST18 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST2 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST2 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST32 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST32 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST35 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST35 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST41 left",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            },
+            {
+              "BoundaryMode": "ALL",
+              "CoordinateField": "marker coordinates",
+              "ElementFaceType": "ALL",
+              "FieldDomainType": "NODES",
+              "Material": "default",
+              "PointAttributes": {
+                "BaseSize": [
+                  0,
+                  0,
+                  0
+                ],
+                "Font": "default",
+                "Glyph": "point",
+                "GlyphOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "GlyphRepeatMode": "NONE",
+                "LabelOffset": [
+                  0,
+                  0,
+                  0
+                ],
+                "LabelText": [
+                  "",
+                  "",
+                  ""
+                ],
+                "ScaleFactors": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "Points": {},
+              "RenderLineWidth": 1,
+              "RenderPointSize": 1,
+              "RenderPolygonMode": "SHADED",
+              "SamplingAttributes": {
+                "ElementPointSamplingMode": "CELL_CENTRES",
+                "Location": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "Scenecoordinatesystem": "LOCAL",
+              "SelectMode": "ON",
+              "SelectedMaterial": "default_selected",
+              "SubgroupField": "ST41 right",
+              "Tessellation": "default_points",
+              "Type": "POINTS",
+              "VisibilityFlag": true
+            }
+          ],
+          "VisibilityFlag": true
+        }
+      }
+    ],
+    "Fieldmodule": null,
+    "Scene": {
+      "Graphics": null,
+      "VisibilityFlag": true
+    }
+  },
+  "Spectrums": {
+    "DefaultSpectrum": "default",
+    "Spectrums": [
+      {
+        "Components": [
+          {
+            "Active": true,
+            "BandedRatio": 0.2,
+            "ColourMappingType": "RAINBOW",
+            "ColourMaximum": 0,
+            "ColourMinimum": 1,
+            "ColourReverse": false,
+            "Exaggeration": 1,
+            "ExtendAbove": true,
+            "ExtendBelow": true,
+            "FieldComponent": 1,
+            "FixMaximum": false,
+            "FixMinimum": false,
+            "NumberOfBands": 10,
+            "RangeMaximum": 1,
+            "RangeMinimum": 0,
+            "ScaleType": "LINEAR",
+            "StepValue": 0.5
+          }
+        ],
+        "MaterialOverwrite": true,
+        "Name": "default"
+      },
+      {
+        "Components": [
+          {
+            "Active": true,
+            "BandedRatio": 0.2,
+            "ColourMappingType": "MONOCHROME",
+            "ColourMaximum": 1,
+            "ColourMinimum": 0,
+            "ColourReverse": false,
+            "Exaggeration": 1,
+            "ExtendAbove": true,
+            "ExtendBelow": true,
+            "FieldComponent": 1,
+            "FixMaximum": false,
+            "FixMinimum": false,
+            "NumberOfBands": 10,
+            "RangeMaximum": 1,
+            "RangeMinimum": 0,
+            "ScaleType": "LINEAR",
+            "StepValue": 0.5
+          }
+        ],
+        "MaterialOverwrite": true,
+        "Name": "mono"
+      },
+      {
+        "Components": [
+          {
+            "Active": true,
+            "BandedRatio": 0.2,
+            "ColourMappingType": "RED",
+            "ColourMaximum": 1,
+            "ColourMinimum": 0,
+            "ColourReverse": false,
+            "Exaggeration": 1,
+            "ExtendAbove": true,
+            "ExtendBelow": true,
+            "FieldComponent": 1,
+            "FixMaximum": false,
+            "FixMinimum": false,
+            "NumberOfBands": 10,
+            "RangeMaximum": 1,
+            "RangeMinimum": 0,
+            "ScaleType": "LINEAR",
+            "StepValue": 0.5
+          },
+          {
+            "Active": true,
+            "BandedRatio": 0.2,
+            "ColourMappingType": "GREEN",
+            "ColourMaximum": 1,
+            "ColourMinimum": 0,
+            "ColourReverse": false,
+            "Exaggeration": 1,
+            "ExtendAbove": true,
+            "ExtendBelow": true,
+            "FieldComponent": 2,
+            "FixMaximum": false,
+            "FixMinimum": false,
+            "NumberOfBands": 10,
+            "RangeMaximum": 1,
+            "RangeMinimum": 0,
+            "ScaleType": "LINEAR",
+            "StepValue": 0.5
+          },
+          {
+            "Active": true,
+            "BandedRatio": 0.2,
+            "ColourMappingType": "BLUE",
+            "ColourMaximum": 1,
+            "ColourMinimum": 0,
+            "ColourReverse": false,
+            "Exaggeration": 1,
+            "ExtendAbove": true,
+            "ExtendBelow": true,
+            "FieldComponent": 3,
+            "FixMaximum": false,
+            "FixMinimum": false,
+            "NumberOfBands": 10,
+            "RangeMaximum": 1,
+            "RangeMinimum": 0,
+            "ScaleType": "LINEAR",
+            "StepValue": 0.5
+          }
+        ],
+        "MaterialOverwrite": true,
+        "Name": "rgb"
+      }
+    ]
+  },
+  "Tessellations": {
+    "DefaultPointsTessellation": "default_points",
+    "DefaultTessellation": "default",
+    "Tessellations": [
+      {
+        "CircleDivisions": 12,
+        "MinimumDivisions": [
+          1
+        ],
+        "Name": "default",
+        "RefinementFactors": [
+          6
+        ]
+      },
+      {
+        "CircleDivisions": 12,
+        "MinimumDivisions": [
+          1
+        ],
+        "Name": "default_points",
+        "RefinementFactors": [
+          1
+        ]
+      },
+      {
+        "CircleDivisions": 48,
+        "MinimumDivisions": [
+          1
+        ],
+        "Name": "material_preview",
+        "RefinementFactors": [
+          1
+        ]
+      }
+    ]
+  },
+  "Views": {
+    "ActiveView": "Layout1",
+    "Children": [
+      {
+        "Name": "Layout1",
+        "Scenes": [
+          {
+            "Col": 0,
+            "Row": 0,
+            "Sceneviewer": {
+              "AntialiasSampling": 8,
+              "BackgroundColourRGB": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "EyePosition": [
+                5.7437076615015235,
+                -5344.398274558241,
+                1108.1450986354864
+              ],
+              "FarClippingPlane": 15013.81738969354,
+              "LightingLocalViewer": false,
+              "LightingTwoSided": true,
+              "LookatPosition": [
+                -1.0555419921875,
+                -102.07274055480957,
+                782.4486846923828
+              ],
+              "NearClippingPlane": 1.5075149776702732,
+              "PerturbLinesFlag": true,
+              "ProjectionMode": "PERSPECTIVE",
+              "Scene": null,
+              "Scenefilter": "default",
+              "TranslationRate": 1,
+              "TransparencyLayers": 6,
+              "TransparencyMode": "ORDER_INDEPENDENT",
+              "TumbleRate": 1.5,
+              "UpVector": [
+                -0.010231856195845516,
+                0.061992206947760684,
+                0.9980241857773456
+              ],
+              "ViewAngle": 0.6981317007977286,
+              "ZoomRate": 1
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

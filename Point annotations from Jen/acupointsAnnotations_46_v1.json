@@ -1,0 +1,1428 @@
+[
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/LI12 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/LI12 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -258.3713684082031,
+            -61.85131072998047,
+            1063.9219970703125
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "LI12 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/LI12 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/LI12 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            247.7218475341797,
+            -57.57988739013672,
+            1077.1707763671875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "LI12 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST1 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST1 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -33.67808151245117,
+            -167.60235595703125,
+            1552.9989013671875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST1 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST1 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST1 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            32.51414489746094,
+            -167.2250213623047,
+            1554.22314453125
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST1 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/LU1 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/LU1 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            58.437896728515625,
+            -171.1042938232422,
+            1301.8406982421875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "LU1 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/LU1 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/LU1 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -58.97748947143555,
+            -168.71287536621094,
+            1305.090576171875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "LU1 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/LU2 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/LU2 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            60.8571891784668,
+            -152.98399353027344,
+            1322.4493408203125
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "LU2 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/LU2 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/LU2 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -60.500389099121094,
+            -154.57797241210938,
+            1320.74853515625
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "LU2 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/LU7 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/LU7 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            278.9235534667969,
+            -126.9905014038086,
+            823.9486694335938
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "LU7 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/LU7 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/LU7 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -276.7848815917969,
+            -115.7009506225586,
+            827.590576171875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "LU7 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/LU5 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/LU5 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -225.2815399169922,
+            -108.12782287597656,
+            1037.5355224609375
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "LU5 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/LU5 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/LU5 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            227.1966094970703,
+            -107.39786529541016,
+            1033.5994873046875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "LU5 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST17 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST17 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            90.89769744873047,
+            -212.86968994140625,
+            1211.903564453125
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST17 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST17 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST17 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -83.62525177001953,
+            -211.9683380126953,
+            1211.321044921875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST17 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST18 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST18 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            89.70970916748047,
+            -211.69827270507812,
+            1175.1016845703125
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST18 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST18 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST18 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -85.50619506835938,
+            -212.57167053222656,
+            1170.388671875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST18 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST10 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST10 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            13.759567260742188,
+            -134.39149475097656,
+            1373.68212890625
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST10 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST10 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST10 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -11.30839729309082,
+            -133.5564727783203,
+            1375.0965576171875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST10 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST32 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST32 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -129.18081665039062,
+            -155.66891479492188,
+            552.6726684570312
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST32 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST32 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST32 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            121.3321533203125,
+            -154.25318908691406,
+            526.7705688476562
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST32 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST35 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST35 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -100.14006042480469,
+            -129.93453979492188,
+            370.69122314453125
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST35 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST35 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST35 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            99.46060943603516,
+            -128.64987182617188,
+            364.43115234375
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST35 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST41 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST41 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -93.1266860961914,
+            -133.81703186035156,
+            4.250120162963867
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST41 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST41 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST41 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            87.83744049072266,
+            -133.21658325195312,
+            3.7584543228149414
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST41 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SP9 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SP9 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -24.33249282836914,
+            -72.1899185180664,
+            369.3520202636719
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SP9 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SP9 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SP9 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            22.965314865112305,
+            -64.21144104003906,
+            367.37139892578125
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SP9 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SI12 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SI12 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            87.95245361328125,
+            18.5872802734375,
+            1331.0972900390625
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SI12 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SI12 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SI12 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -100.92816925048828,
+            16.633573532104492,
+            1335.21533203125
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SI12 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SI9 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SI9 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            140.6415252685547,
+            -5.7543182373046875,
+            1295.327880859375
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SI9 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SI9 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SI9 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -151.7961883544922,
+            -10.859283447265625,
+            1291.3179931640625
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SI9 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SI6 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SI6 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -243.0910186767578,
+            -92.25419616699219,
+            822.13427734375
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SI6 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SI6 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Position Updated"
+    },
+    "feature": {
+      "id": "__annotation/SI6 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            237.531005859375,
+            -88.13862609863281,
+            818.5609741210938
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SI6 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SI8 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SI8 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            178.75917053222656,
+            -42.286895751953125,
+            1044.6075439453125
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SI8 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SI8 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SI8 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -187.48670959472656,
+            -28.58195686340332,
+            1041.529296875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SI8 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SI18 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SI18 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -53.86253356933594,
+            -153.8900909423828,
+            1547.41748046875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SI18 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SI18 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SI18 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            49.83759689331055,
+            -155.38235473632812,
+            1547.810302734375
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SI18 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SP12 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SP12 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            67.32263946533203,
+            -179.08277893066406,
+            822.0963745117188
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SP12 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SP12 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SP12 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -72.27606201171875,
+            -177.974609375,
+            822.1966552734375
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SP12 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/HT3 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/HT3 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            187.72232055664062,
+            -96.713134765625,
+            1030.92919921875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "HT3 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/HT3 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/HT3 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -186.56216430664062,
+            -92.10004425048828,
+            1031.2767333984375
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "HT3 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SP21 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SP21 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            145.2363739013672,
+            -47.636497497558594,
+            1124.2958984375
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SP21 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/SP21 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/SP21 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -156.18553161621094,
+            -78.97540283203125,
+            1150.0625
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "SP21 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST2 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST2 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            36.83430862426758,
+            -164.56329345703125,
+            1543.9881591796875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST2 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/ST2 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/ST2 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -38.1302604675293,
+            -165.0115509033203,
+            1547.739013671875
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "ST2 right",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/LI20 left"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/LI20 left",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            24.26729965209961,
+            -177.71786499023438,
+            1494.200927734375
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "LI20 left",
+    "region": "__annotation"
+  },
+  {
+    "resource": "blob:https://mapcore-demo.org/17fd22c4-6fd3-4d2a-adf6-18e6b0ad541f",
+    "item": {
+      "id": "__annotation/LI20 right"
+    },
+    "body": {
+      "evidence": [
+        
+      ],
+      "comment": "Create"
+    },
+    "feature": {
+      "id": "__annotation/LI20 right",
+      "properties": {
+        "drawn": true,
+        "label": "Drawn annotation"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -21.71849250793457,
+            -180.25465393066406,
+            1497.517333984375
+          ]
+        ],
+        "type": "MultiPoint"
+      }
+    },
+    "group": "LI20 right",
+    "region": "__annotation"
+  }
+]

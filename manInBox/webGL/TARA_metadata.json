@@ -1,0 +1,165 @@
+[
+  {
+    "LOD": {
+      "Levels": {
+        "close": {
+          "URL": "TARA_high_1.json"
+        },
+        "medium": {
+          "URL": "TARA_medium_1.json"
+        }
+      },
+      "Preload": false
+    },
+    "MorphColours": false,
+    "MorphNormals": false,
+    "MorphVertices": false,
+    "RegionPath": "skin",
+    "Type": "Surfaces",
+    "URL": "TARA_1.json"
+  },
+  {
+    "LOD": {
+      "Levels": {
+        "close": {
+          "URL": "TARA_high_2.json"
+        },
+        "medium": {
+          "URL": "TARA_medium_2.json"
+        }
+      },
+      "Preload": false
+    },
+    "MorphColours": false,
+    "MorphNormals": false,
+    "MorphVertices": false,
+    "RegionPath": "vertebral column",
+    "Type": "Surfaces",
+    "URL": "TARA_2.json"
+  },
+  {
+    "LOD": {
+      "Levels": {
+        "close": {
+          "URL": "TARA_high_3.json"
+        },
+        "medium": {
+          "URL": "TARA_medium_3.json"
+        }
+      },
+      "Preload": false
+    },
+    "MorphColours": false,
+    "MorphNormals": false,
+    "MorphVertices": false,
+    "RegionPath": "scapula/left scapula",
+    "Type": "Surfaces",
+    "URL": "TARA_3.json"
+  },
+  {
+    "LOD": {
+      "Levels": {
+        "close": {
+          "URL": "TARA_high_4.json"
+        },
+        "medium": {
+          "URL": "TARA_medium_4.json"
+        }
+      },
+      "Preload": false
+    },
+    "MorphColours": false,
+    "MorphNormals": false,
+    "MorphVertices": false,
+    "RegionPath": "scapula/right scapula",
+    "Type": "Surfaces",
+    "URL": "TARA_4.json"
+  },
+  {
+    "LOD": {
+      "Levels": {
+        "close": {
+          "URL": "TARA_high_5.json"
+        },
+        "medium": {
+          "URL": "TARA_medium_5.json"
+        }
+      },
+      "Preload": false
+    },
+    "MorphColours": false,
+    "MorphNormals": false,
+    "MorphVertices": false,
+    "RegionPath": "clavicle/left clavicle",
+    "Type": "Surfaces",
+    "URL": "TARA_5.json"
+  },
+  {
+    "LOD": {
+      "Levels": {
+        "close": {
+          "URL": "TARA_high_6.json"
+        },
+        "medium": {
+          "URL": "TARA_medium_6.json"
+        }
+      },
+      "Preload": false
+    },
+    "MorphColours": false,
+    "MorphNormals": false,
+    "MorphVertices": false,
+    "RegionPath": "clavicle/right clavicle",
+    "Type": "Surfaces",
+    "URL": "TARA_6.json"
+  },
+  {
+    "LOD": {
+      "Levels": {
+        "close": {
+          "URL": [
+            "TARA_high_7_split_1.json",
+            "TARA_high_7_split_2.json"
+          ]
+        },
+        "medium": {
+          "URL": "TARA_medium_7.json"
+        }
+      },
+      "Preload": false
+    },
+    "MorphColours": false,
+    "MorphNormals": false,
+    "MorphVertices": false,
+    "RegionPath": "muscles",
+    "Type": "Surfaces",
+    "URL": "TARA_7.json"
+  },
+  {
+    "LOD": {
+      "Levels": {
+        "close": {
+          "URL": [
+            "TARA_high_8_split_1.json",
+            "TARA_high_8_split_2.json",
+            "TARA_high_8_split_3.json"
+          ]
+        },
+        "medium": {
+          "URL": "TARA_medium_8.json"
+        }
+      },
+      "Preload": false
+    },
+    "MorphColours": false,
+    "MorphNormals": false,
+    "MorphVertices": false,
+    "RegionPath": "bones",
+    "Type": "Surfaces",
+    "URL": "TARA_8.json"
+  },
+  {
+    "Type": "View",
+    "URL": "TARA_Layout1_view.json"
+  }
+]
